@@ -1,0 +1,6 @@
+{
+    "short_name": "Clock",
+    "name": "Clock",
+    "start_url": "index.html",
+    "display": "standalone"
+}

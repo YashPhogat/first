@@ -1,0 +1,16 @@
+/*main.css*/
+
+html,body{
+    background-color: black;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding-bottom:0;
+}
+#clock_disp{
+   
+    margin: auto;
+    color: white;
+    font-size: 500%;
+    
+}
